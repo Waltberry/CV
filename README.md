@@ -57,12 +57,8 @@ August 2019 - November 2019 (4 months)
 - Java
 - Javascript
 - MATLAB
-- Swift
 - R
 - C
-- Julia
-- Scala
-- C++
 - SQL
   
 ### Robotics
