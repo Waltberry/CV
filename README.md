@@ -1,6 +1,6 @@
 # Onyero Walter Ofuzim
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([www.linkedin.com/in/onyero-walterofuzim-189301107](https://www.linkedin.com/in/onyero-walter-ofuzim-189301107/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/onyero-walter-ofuzim-189301107/)
 
 ## Summary:  
 Hello! I'm Onyero Walter Ofuzim.
