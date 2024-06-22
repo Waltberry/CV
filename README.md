@@ -25,24 +25,24 @@ March 2023 – November 2023
 ### Network Support Engineering Intern 
 **MTN**  
 Falomo Ikoyi (HQ), Lagos, Nigeria
-August 2023 - Febuary 2023
+August 2023 - February 2023
 - Provided critical support in network stability and troubleshooting, contributing to improved service reliability.
 
 ### Graduate Research Assistant									
 **University of Benin – Department of Electrical/Electronic Engineering**
-Benin, Edo, Nigeria 
+Benin, Edo, Nigeria
 January 2020 – August 2021
 - Spearheaded pioneering research in embedded systems and IoT technologies, notably contributing to the development of efficient battery management solutions.
 
 ### Network Engineering Intern  
 **MTN**  
-Ojota, Lagos, Nigeria  
+Ojota, Lagos, Nigeria
 November 2019 - May 2020
 - Played a key role in network integrity maintenance and SNMP monitoring.
 
 ### Automation/ Electrical Engineer Intern  
 **Nigerian Bottling Company PLC. (Coca-Cola HBC)**  
-Ikeja, Lagos  
+Ikeja, Lagos
 August 2019 - November 2019  
 - Implemented proactive maintenance strategies, reducing machinery downtime by 15%.
 
