@@ -97,11 +97,14 @@ August 2019 - November 2019
 - **Database:**
   - MySQL, Data Modeling
  
-- **Back-end:** Python, Django, APIs
+- **Back-end:**
+  - Python, Django, APIs
   
-- **Mobile:** Java, Kotlin, React Native
+- **Mobile:**
+  - Java, Kotlin, React Native
   
-- **Data Analyst:** PowerBi, Excel, Python
+- **Data Analyst:**
+  - PowerBi, Excel, Python
     
 - **Artificial Intelligence / Machine Learning / Deep Learning:**
   - Machine Learning Algorithms, Deep Learning, Computer Vision, Natural Language Processing (NLP), Reinforcement Learning, Model Evaluation and Validation
@@ -124,7 +127,7 @@ August 2019 - November 2019
 ## Extracurricular Activities
 
 - **J.P. Morgan Software Engineering Virtual Experience on Forage - May 2024**
-  - Set up local development environment and resolved issues for correct web application output.
+  - Set up the local development environment and resolved issues for correct web application output.
   - Utilized J.P. Morgan's Perspective open-source library to create live graphs for data visualization.
 
 - **Blackbird Australia Software Engineering Virtual Experience on Forage - June 2024**
@@ -150,19 +153,19 @@ August 2019 - November 2019
 ### Arduino Temperature Warning System IoT
 - **Duration:** June 2024 - June 2024
 - **Description:** The Arduino Temperature Warning System is an Internet-of-Things (IoT) project that uses an NTC Thermistor to monitor temperature and provide visual alerts through LEDs.
-- **GitHub:** [Data-Driven Insights for Donor Selection](https://github.com/Waltberry/Arduino-Temperature-Warning-System-IoT-)
+- **GitHub:** [Arduino Temperature Warning System IoT](https://github.com/Waltberry/Arduino-Temperature-Warning-System-IoT-)
 
 ### Customer Churn Prediction in a Telecom Company
 - **Duration:** Sep 2024 – Sep 2024
 - **Description:** Customer Churn Prediction in a Case Study Telecom Company.
-- **GitHub:** [Data-Driven Insights for Donor Selection](https://github.com/Waltberry/Data-Driven_Insights_for_Donor_Selection)
+- **GitHub:** [Customer Churn Prediction in a Telecom Company](https://github.com/Waltberry/Data-Driven_Insights_for_Donor_Selection)
 
 ### Data-Driven Insights for Donor Selection
 - **Duration:** Sep 2023 - Sep 2023
 - **Description:** Empowered a national charitable organization with machine learning insights to revolutionize fundraising campaigns.
 - **GitHub:** [Data-Driven Insights for Donor Selection](https://github.com/Waltberry/Customer-Churn-Prediction-in-a-Telecom-Company)
 
-### Fine Tune BERT for Text Classification with Tensorflow
+### Fine Tune BERT for Text Classification with TensorFlow
 - **Duration:** Sep 2022 - Sep 2022
 - **Description:** Implemented BERT for advanced text classification tasks.
 - **GitHub:** [Fine Tune BERT for Text Classification with Tensorflow](https://github.com/Waltberry/Fine_Tune_BERT)
@@ -232,7 +235,7 @@ August 2019 - November 2019
 - **Description:** Analyzed Airbnb data to extract insights about the NYC market.
 - **GitHub:** [Exploring the NYC Airbnb Market](https://github.com/Waltberry/NYC_Airbnb_Market)
 
-### Find Movie Similarity from Plot Summaries (in Python)
+### Find Movie Similarities from Plot Summaries (in Python)
 - **Duration:** Aug 2022 - Aug 2022
 - **Description:** Used NLP techniques to find movie similarities based on plot summaries.
 - **GitHub:** [Find Movie Similarity from Plot Summaries](https://github.com/Waltberry/Movie_Similarity)
