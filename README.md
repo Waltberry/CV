@@ -6,7 +6,7 @@
 
 ## Professional Summary
 
-Innovative and results-driven software engineer with a robust background in electrical and software engineering. Experienced in leading cutting-edge research and development initiatives, particularly within energy management and network performance optimization. Skilled in leveraging advanced technologies such as Machine Learning, Data Analysis, and IoT to drive efficiency and sustainability across diverse industries. Proven ability to lead teams and deliver impactful solutions that enhance operational performance and reduce costs. I am committed to continuous learning and staying abreast of emerging technologies to solve complex engineering challenges.
+Innovative and results-driven engineer with a robust background in electrical, network and software engineering.
 
 ## Experience
 
