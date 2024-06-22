@@ -24,7 +24,7 @@ March 2023 – November 2023
 
 ### Network Support Engineering Intern 
 **MTN**  
-Falomo Ikoyi (HQ), Lagos, Nigeria 
+Falomo Ikoyi (HQ), Lagos, Nigeria
 August 2023 - Febuary 2023
 - Provided critical support in network stability and troubleshooting, contributing to improved service reliability.
 
