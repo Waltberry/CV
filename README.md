@@ -125,6 +125,8 @@ August 2019 - November 2019
   - Localization and Mapping
   
 ## Extracurricular Activities
+- **GE Engineering Virtual Experience Program on Forage - August 2022**
+  - Practical task modules in Energy: Power Generation, Healthcare, and Aviation Systems
 
 - **J.P. Morgan Software Engineering Virtual Experience on Forage - May 2024**
   - Set up the local development environment and resolved issues for correct web application output.
@@ -133,6 +135,44 @@ August 2019 - November 2019
 - **Blackbird Australia Software Engineering Virtual Experience on Forage - June 2024**
   - Participated in software engineering simulations within a start-up environment.
   - Developed and assessed cloud infrastructure, proposed features for A/B testing, and contributed to sprint retrospectives.
+ 
+## Licenses & Certifications
+
+### Machine Learning
+**Stanford Online - Dec 2021**  
+
+### Modern Robotics: Mechanics, Planning, and Control Specialization
+**Course 1: Modern Robotics, Course 1: Foundations of Robot Motion**  
+**Northwestern University - Dec 2021**  
+  
+### Self-Driving Cars Specialization
+**Course 1: Introduction to Self-Driving Cars**  
+**University of Toronto - Jan 2022**  
+
+### Robotics Specialization
+**Course 1: Robotics: Aerial Robotics**  
+**University of Pennsylvania - Oct 2022**  
+
+**Course 2: Robotics: Computational Motion Planning**  
+**University of Pennsylvania - Oct 2022**  
+
+**Course 3: Robotics: Aerial Robotics**
+**University of Pennsylvania - Oct 2022**  
+
+**Course 4: Robotics: Computational Motion Planning**
+**University of Pennsylvania - Oct 2022**
+
+**Course 5: Robotics: Legged Mobility**
+**University of Pennsylvania - Oct 2022**  
+
+**Course 6: Robotics: Perception**
+**University of Pennsylvania - Mar 2023**
+
+### Cooperation in Autonomous Vehicles
+**IEEE - Oct 2022** 
+
+### Developing and Validating Control Systems for Connected and Automated Vehicles
+**IEEE - Oct 2022**  
 
 ## Publications
 
