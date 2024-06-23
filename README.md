@@ -136,6 +136,11 @@ August 2019 - November 2019
   - Participated in software engineering simulations within a start-up environment.
   - Developed and assessed cloud infrastructure, proposed features for A/B testing, and contributed to sprint retrospectives.
  
+- **JPMorgan Chase & Co. Agile Job Simulation on Forage - June 2024**
+  - Drafted and prioritized eight user stories using Trello, estimating relative effort required
+  - Led daily standup meetings to plan daily tasks and motivate team members
+  - Conducted sprint reviews to gather feedback and sprint retrospectives to identify improvement opportunities for future sprints
+ 
 ## Licenses & Certifications
 
 ### Machine Learning
