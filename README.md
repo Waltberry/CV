@@ -87,42 +87,42 @@ August 2019 - November 2019
 
 ### Technical Skills
 
-#### Software Skills
-- **Programming Languages:**
-  - MATLAB, R, C, SQL
-    
-- **Front-End:**
-  - JavaScript, HTML & CSS, React
-    
-- **Database:**
-  - MySQL, Data Modeling
- 
-- **Back-end:**
-  - Python, Django, APIs
-  
-- **Mobile:**
-  - Java, Kotlin, React Native
-  
-- **Data Analyst:**
-  - PowerBi, Excel, Python
-    
-- **Artificial Intelligence / Machine Learning / Deep Learning:**
-  - Machine Learning Algorithms, Deep Learning, Computer Vision, Natural Language Processing (NLP), Reinforcement Learning, Model Evaluation and Validation
+#### Programming Languages
+- **Python:** Data Processing, Virtual Environments, Dash, Pandas, Financial Data
+- **JavaScript:** React, TypeScript, A/B Testing
+- **Java:** Object-Oriented Programming, Spring
+- **SQL:** MySQL, Data Modeling
+- **Other Languages:** MATLAB, R, C
 
-#### Engineering Skills
-- **Control Systems Engineering:**
-  - Classical Control Theory
-  - Modern Control Theory
-  - System Identification
-  - Feedback Control Design
-  - Control System Implementation
+#### Software Development
+- **Front-End:** HTML, CSS, React
+- **Back-End:** Django, APIs
+- **Mobile Development:** Java, Kotlin, React Native
+- **Web Applications:** Technical Communication, Unit Testing, Collaboration
 
-- **Robotics:**
-  - Robot Operating System (ROS)
-  - Kinematics and Dynamics
-  - Sensor Integration
-  - Path Planning and Navigation
-  - Localization and Mapping
+#### Data Analysis & Machine Learning
+- **Data Analysis:** PowerBI, Excel, Analytical Dashboard Creation, Data Quality Analysis
+- **Machine Learning/AI:** Algorithms, Deep Learning, Computer Vision, NLP, Reinforcement Learning, Model Evaluation and Validation
+- **Product Analytics:** Product Backlog, A/B Testing
+
+#### Control Systems & Robotics
+- **Control Systems Engineering:** Classical Control Theory, Modern Control Theory, System Identification, Feedback Control Design, Control System Implementation
+- **Robotics:** Robot Operating System (ROS), Kinematics and Dynamics, Sensor Integration, Path Planning and Navigation, Localization and Mapping
+
+#### Software Tools & Technologies
+- **Version Control:** Git, GitHub
+- **Cloud Infrastructure:** AWS, Cloud Architecture
+- **Automation & Systems Engineering:** Aircraft Systems, Automated Systems, Systems Engineering
+
+### Project Management & Agile Methodology
+- **Project Management:** Trello, Project Management, Knowledge Check, Value Stream Mapping
+- **Agile Methodology:** Agile, Scrum Process, Scrum Roles, Sprints, User Stories, Product Backlog, Backlog Refinement, Story Points, Scrum Events, Daily Standups, Sprint Reviews, Sprint Retrospectives
+
+### Professional Skills
+- **Technical Communication**
+- **Collaboration:** Contributing to the Open Source Community
+- **Critical Thinking:** Critical Thinking, Self-Reflection
+
   
 ## Extracurricular Activities
 - **GE Engineering Virtual Experience Program on Forage - August 2022**
