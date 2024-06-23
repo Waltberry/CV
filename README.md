@@ -139,6 +139,11 @@ August 2019 - November 2019
   - Drafted and prioritized eight user stories using Trello, estimating relative effort required.
   - Led daily standup meetings to plan daily tasks and motivate team members.
   - Conducted sprint reviews to gather feedback and sprint retrospectives to identify improvement opportunities for future sprints.
+ 
+- **JPMorgan Chase & Co. Software Engineering Lite Virtual Experience Program on Forage - June 2024**
+  - Completed simulation tasks focused on engineering ticket completion within JPMorgan Chase & Co.'s credit card rewards system.
+  - Developed a new class crucial for system functionality restoration.
+  - Implemented a comprehensive test suite to ensure the reliability and performance of the newly integrated class.
 
 ## Licenses & Certifications
 
