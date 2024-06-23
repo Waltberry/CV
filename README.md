@@ -188,11 +188,8 @@ August 2019 - November 2019
 - Spanish (Learning)
 
 ## Project
-[![GitHub](https://img.shields.io/badge/)](https://github.com/Waltberry/Projects_list/blob/main/README.md)
-
-## Project
 <a href="https://github.com/Waltberry/Projects_list/blob/main/README.md" target="_blank">
-  <img src="https://img.shields.io/badge/Your_Label-Your_Color">
+  <img src="https://img.shields.io/badge/project_list-click_here-blue">
 </a>
 
 
