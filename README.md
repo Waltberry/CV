@@ -1,10 +1,5 @@
 # Onyero Walter Ofuzim
 
-<h1 style="color: #1E90FF;">Onyero Walter Ofuzim</h1>
-
-<p>Innovative and results-driven engineer with a robust background in electrical, network, and software engineering.</p>
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/onyero-walter-ofuzim-189301107/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:onyero.ofuzim@ucalgary.ca)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey)](https://github.com/Waltberry)
