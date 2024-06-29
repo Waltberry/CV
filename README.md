@@ -136,14 +136,20 @@ August 2019 - November 2019
   - Developed and assessed cloud infrastructure, proposed features for A/B testing, and contributed to sprint retrospectives.
 
 - **JPMorgan Chase & Co. Agile Job Simulation on Forage - June 2024**
-  - Drafted and prioritized eight user stories using Trello, estimating relative effort required.
+  - Drafted and prioritized eight user stories using Trello, estimating the relative effort required.
   - Led daily standup meetings to plan daily tasks and motivate team members.
-  - Conducted sprint reviews to gather feedback and sprint retrospectives to identify improvement opportunities for future sprints.
+  - Conducted sprint reviews to gather feedback and retrospectives to identify improvement opportunities for future sprints.
  
 - **JPMorgan Chase & Co. Software Engineering Lite Virtual Experience Program on Forage - June 2024**
-  - Completed simulation tasks focused on engineering ticket completion within JPMorgan Chase & Co.'s credit card rewards system.
+  - Completed simulation tasks on engineering ticket completion within JPMorgan Chase & Co.'s credit card rewards system.
   - Developed a new class crucial for system functionality restoration.
   - Implemented a comprehensive test suite to ensure the reliability and performance of the newly integrated class.
+ 
+- **Citi ICG Technology Software Development Job Simulation - June 2024**
+  - Completed a job simulation to enhance Citi's loan management system and stock market risk reporting.
+  - Created a UML state diagram illustrating the loan management process.
+  - Researched machine learning systems for credit risk assessment, offering strategic recommendations.
+  - Built a real-time stock market risk visualization tool using Java.
 
 ## Licenses & Certifications
 
