@@ -6,7 +6,7 @@
 
 ## Professional Summary
 
-Innovative and results-driven engineer with a robust background in electrical, network and software engineering.
+Innovative and results-driven engineer with a robust electrical, network and software engineering background.
 
 ## Experience
 
@@ -150,6 +150,11 @@ August 2019 - November 2019
   - Created a UML state diagram illustrating the loan management process.
   - Researched machine learning systems for credit risk assessment, offering strategic recommendations.
   - Built a real-time stock market risk visualization tool using Java.
+
+-**Hewlett Packard Enterprise Software Engineering Job Simulation on Forage - July 2024**
+  - Wrote a proposal for a RESTful web service to manage a list of employees.
+  - Built a web server application in Java Spring Boot that can accept and respond to HTTP requests and support uploading JSON data.
+  - Developed and ran unit tests to assess my Java Spring Boot application’s performance.
 
 ## Licenses & Certifications
 
