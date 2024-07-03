@@ -32,7 +32,7 @@ August 2023 - February 2023
 **University of Benin – Department of Electrical/Electronic Engineering**  
 Benin, Edo, Nigeria  
 January 2020 – August 2021
-- Spearheaded pioneering research in embedded systems and IoT technologies, notably contributing to the development of efficient battery management solutions.
+- Spearheaded pioneering research in embedded systems and IoT technologies, notably contributing to developing efficient battery management solutions.
 
 ### Network Engineering Intern
 **MTN**  
