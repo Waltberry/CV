@@ -157,15 +157,15 @@ August 2019 - November 2019
   - Developed and ran unit tests to assess my Java Spring Boot application’s performance.
 
 - **Lyft Back-End Engineering Job Simulation - July 2024**
- - Completed the Back-End Engineering job simulation, taking over the development of an unfinished project for the Lyft Rentals team.
- - Drafted a UML class diagram representing a new reorganized architecture.
- - Refactored a messy codebase inherited from another team to accurately reflect my new design.
- - Implemented unit tests and added new functionality using test-driven development.
+   - Completed the Back-End Engineering job simulation, taking over the development of an unfinished project for the Lyft Rentals team.
+   - Drafted a UML class diagram representing a new reorganized architecture.
+   - Refactored a messy codebase inherited from another team to accurately reflect my new design.
+   - Implemented unit tests and added new functionality using test-driven development.
 
 - **Ford EV Engineering (High School) Job Simulation on Forage - July 2024**
- - Completed a job simulation involving battery technology and PID controller tuning for Ford's EV engineering team.
- - Visualized data using Excel to understand the relationship between battery chemistries and capacity.
- - Examined Python code for tuning a PID controller to understand its role in improving control accuracy.
+   - Completed a job simulation involving battery technology and PID controller tuning for Ford's EV engineering team.
+   - Visualized data using Excel to understand the relationship between battery chemistries and capacity.
+   - Examined Python code for tuning a PID controller to understand its role in improving control accuracy.
 
 ## Licenses & Certifications
 
