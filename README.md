@@ -14,7 +14,7 @@ Innovative and results-driven engineer with a robust electrical, network and sof
 **Schulich School of Engineering - Electrical & Software**  
 Calgary, Alberta, Canada  
 January 2024 - Present 
-- Conducting research within the Digital Innovation in Clean Energy (DICE) program, focusing on Machine-Learning-Assisted battery management systems.
+- Conducting research within the Digital Innovation in Clean Energy (DICE) program, focusing on machine learning and System Identification to monitor the physics of Grid Flow Batteries and Hydrogen Storage Cells.
 
 ### Lead Technology Specialist (Analysis) / Network Support Analyst
 **MTN**  
