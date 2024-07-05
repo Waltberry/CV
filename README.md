@@ -166,6 +166,12 @@ August 2019 - November 2019
    - Completed a job simulation involving battery technology and PID controller tuning for Ford's EV engineering team.
    - Visualized data using Excel to understand the relationship between battery chemistries and capacity.
    - Examined Python code for tuning a PID controller to understand its role in improving control accuracy.
+ 
+- **Ford EV Engineering (University 1st-2nd Year) Job Simulation on Forage - July2024**
+   - Completed a job simulation involving performing a cost-benefit analysis for EV batteries and LiDAR sensors for Ford's EV engineering division.
+   - Analyzed the impact of various battery form factors, including cylindrical, pouch, and prismatic options, on system cost, safety, and durability.
+   - Conducted a comprehensive cost-benefit analysis for different LiDAR sensor models, comparing mechanical scanning, solid-state, and hybrid LiDAR sensors, with a focus on durability, scanning speed, and cost implications.
+   - Presented technical findings in a concise format using tables, aiding the engineering division in making informed decisions for various projects.
 
 ## Licenses & Certifications
 
