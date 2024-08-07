@@ -173,6 +173,12 @@ August 2019 - November 2019
    - Conducted a comprehensive cost-benefit analysis for different LiDAR sensor models, comparing mechanical scanning, solid-state, and hybrid LiDAR sensors, with a focus on durability, scanning speed, and cost implications.
    - Presented technical findings in a concise format using tables, aiding the engineering division in making informed decisions for various projects.
 
+- **Siemens Mobility Operations Industrial Engineer Job Simulation on Forage - August 2024**
+   - Completed a job simulation involving operations optimization and layout redesign for Siemens Mobility's high-speed rail team..
+   - Utilized manufacturing and engineering principles to identify inefficiencies and propose actionable improvements, enhancing production workflow and reducing waste..
+   - Employed data-driven decision-making and process analysis techniques to pinpoint and address a critical bottleneck in the wheel assembly section, leading to a proposed layout change that improved operational efficiency..
+   - Developed a presentation for a comprehensive layout optimization proposal using PowerPoint, incorporating technical communication skills and strategic planning to justify changes..
+
 ## Licenses & Certifications
 
 ### Machine Learning
