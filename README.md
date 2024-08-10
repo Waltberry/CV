@@ -123,7 +123,7 @@ August 2019 - November 2019
 - **Critical Thinking:** Critical Thinking, Self-Reflection
 
 ## Extracurricular Activities
-[![Extracurricular Activities](https://img.shields.io/badge/Extracurricular_Activities-Click_here-blue)](https://github.com/Waltberry/Projects_list/blob/main/README.md)
+[![Extracurricular Activities](https://img.shields.io/badge/Extracurricular_Activities-Click_here-blue)](https://github.com/Waltberry/CV/blob/main/Extracurricular_Activities.md)
 
 ## Licenses & Certifications
 
@@ -174,5 +174,5 @@ August 2019 - November 2019
 
 ## Project
 
-[![Project](https://img.shields.io/badge/Project_list-Click_here-blue)](https://github.com/Waltberry/Projects_list/blob/main/README.md)
+[![Project](https://img.shields.io/badge/Project_list-Click_here-blue)](https://github.com/Waltberry/CV/blob/main/Projects.md)
 
