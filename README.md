@@ -174,10 +174,16 @@ August 2019 - November 2019
    - Presented technical findings in a concise format using tables, aiding the engineering division in making informed decisions for various projects.
 
 - **Siemens Mobility Operations Industrial Engineer Job Simulation on Forage - August 2024**
-   - Completed a job simulation involving operations optimization and layout redesign for Siemens Mobility's high-speed rail team..
-   - Utilized manufacturing and engineering principles to identify inefficiencies and propose actionable improvements, enhancing production workflow and reducing waste..
+   - Completed a job simulation involving operations optimization and layout redesign for Siemens Mobility's high-speed rail team.
+   - Utilized manufacturing and engineering principles to identify inefficiencies and propose actionable improvements, enhancing production workflow and reducing waste.
    - Employed data-driven decision-making and process analysis techniques to pinpoint and address a critical bottleneck in the wheel assembly section, leading to a proposed layout change that improved operational efficiency..
-   - Developed a presentation for a comprehensive layout optimization proposal using PowerPoint, incorporating technical communication skills and strategic planning to justify changes..
+   - Developed a presentation for a comprehensive layout optimization proposal using PowerPoint, incorporating technical communication skills and strategic planning to justify changes.
+ 
+- **Siemens Mobility Project Manager Job Simulation on Forage - August 2024**
+ - Completed a job simulation involving comprehensive project management for Siemens Mobility, focusing on KPI development and dashboard management.
+ - Developed and applied analytical skills to establish strategic key performance indicators (KPIs), enhancing the monitoring of rail infrastructure projects and ensuring alignment with Siemens Mobility’s goals.
+ - Utilized Microsoft Excel and data visualization techniques to create and update project dashboards, effectively communicating complex project metrics and progress to stakeholders.
+ - Demonstrated adaptability and problem-solving in real-world scenarios, including navigating construction challenges and stakeholder feedback, to maintain project momentum and stakeholder confidence.
 
 ## Licenses & Certifications
 
