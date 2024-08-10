@@ -123,67 +123,7 @@ August 2019 - November 2019
 - **Critical Thinking:** Critical Thinking, Self-Reflection
 
 ## Extracurricular Activities
-
-- **GE Engineering Virtual Experience Program on Forage - August 2022**
-  - Practical task modules in Energy: Power Generation, Healthcare, and Aviation Systems
-
-- **J.P. Morgan Software Engineering Virtual Experience on Forage - May 2024**
-  - Set up the local development environment and resolved issues for correct web application output.
-  - Utilized J.P. Morgan's Perspective open-source library to create live graphs for data visualization.
-
-- **Blackbird Australia Software Engineering Virtual Experience on Forage - June 2024**
-  - Participated in software engineering simulations within a start-up environment.
-  - Developed and assessed cloud infrastructure, proposed features for A/B testing, and contributed to sprint retrospectives.
-
-- **JPMorgan Chase & Co. Agile Job Simulation on Forage - June 2024**
-  - Drafted and prioritized eight user stories using Trello, estimating the relative effort required.
-  - Led daily standup meetings to plan daily tasks and motivate team members.
-  - Conducted sprint reviews to gather feedback and retrospectives to identify improvement opportunities for future sprints.
- 
-- **JPMorgan Chase & Co. Software Engineering Lite Virtual Experience Program on Forage - June 2024**
-  - Completed simulation tasks on engineering ticket completion within JPMorgan Chase & Co.'s credit card rewards system.
-  - Developed a new class crucial for system functionality restoration.
-  - Implemented a comprehensive test suite to ensure the reliability and performance of the newly integrated class.
- 
-- **Citi ICG Technology Software Development Job Simulation - June 2024**
-  - Completed a job simulation to enhance Citi's loan management system and stock market risk reporting.
-  - Created a UML state diagram illustrating the loan management process.
-  - Researched machine learning systems for credit risk assessment, offering strategic recommendations.
-  - Built a real-time stock market risk visualization tool using Java.
-
-- **Hewlett Packard Enterprise Software Engineering Job Simulation on Forage - July 2024**
-  - Wrote a proposal for a RESTful web service to manage a list of employees.
-  - Built a web server application in Java Spring Boot that can accept and respond to HTTP requests and support uploading JSON data.
-  - Developed and ran unit tests to assess my Java Spring Boot application’s performance.
-
-- **Lyft Back-End Engineering Job Simulation - July 2024**
-   - Completed the Back-End Engineering job simulation, taking over the development of an unfinished project for the Lyft Rentals team.
-   - Drafted a UML class diagram representing a new reorganized architecture.
-   - Refactored a messy codebase inherited from another team to accurately reflect my new design.
-   - Implemented unit tests and added new functionality using test-driven development.
-
-- **Ford EV Engineering (High School) Job Simulation on Forage - July 2024**
-   - Completed a job simulation involving battery technology and PID controller tuning for Ford's EV engineering team.
-   - Visualized data using Excel to understand the relationship between battery chemistries and capacity.
-   - Examined Python code for tuning a PID controller to understand its role in improving control accuracy.
- 
-- **Ford EV Engineering (University 1st-2nd Year) Job Simulation on Forage - July2024**
-   - Completed a job simulation involving performing a cost-benefit analysis for EV batteries and LiDAR sensors for Ford's EV engineering division.
-   - Analyzed the impact of various battery form factors, including cylindrical, pouch, and prismatic options, on system cost, safety, and durability.
-   - Conducted a comprehensive cost-benefit analysis for different LiDAR sensor models, comparing mechanical scanning, solid-state, and hybrid LiDAR sensors, with a focus on durability, scanning speed, and cost implications.
-   - Presented technical findings in a concise format using tables, aiding the engineering division in making informed decisions for various projects.
-
-- **Siemens Mobility Operations Industrial Engineer Job Simulation on Forage - August 2024**
-   - Completed a job simulation involving operations optimization and layout redesign for Siemens Mobility's high-speed rail team.
-   - Utilized manufacturing and engineering principles to identify inefficiencies and propose actionable improvements, enhancing production workflow and reducing waste.
-   - Employed data-driven decision-making and process analysis techniques to pinpoint and address a critical bottleneck in the wheel assembly section, leading to a proposed layout change that improved operational efficiency..
-   - Developed a presentation for a comprehensive layout optimization proposal using PowerPoint, incorporating technical communication skills and strategic planning to justify changes.
- 
-- **Siemens Mobility Project Manager Job Simulation on Forage - August 2024**
- - Completed a job simulation involving comprehensive project management for Siemens Mobility, focusing on KPI development and dashboard management.
- - Developed and applied analytical skills to establish strategic key performance indicators (KPIs), enhancing the monitoring of rail infrastructure projects and ensuring alignment with Siemens Mobility’s goals.
- - Utilized Microsoft Excel and data visualization techniques to create and update project dashboards, effectively communicating complex project metrics and progress to stakeholders.
- - Demonstrated adaptability and problem-solving in real-world scenarios, including navigating construction challenges and stakeholder feedback, to maintain project momentum and stakeholder confidence.
+[![Extracurricular Activities](https://img.shields.io/badge/Extracurricular_Activities-Click_here-blue)](https://github.com/Waltberry/Projects_list/blob/main/README.md)
 
 ## Licenses & Certifications
 
