@@ -58,3 +58,8 @@
   - Developed strategic KPIs to monitor rail infrastructure projects and ensure alignment with organizational goals.
   - Used Microsoft Excel and data visualization techniques to create and update project dashboards.
   - Demonstrated problem-solving skills in real-world scenarios, managing construction challenges and stakeholder feedback to maintain project momentum.
+ 
+- **JPMorgan Chase & Co. Quantitative Research Virtual Experience Program on Forage - September 2024**
+  - Completed a simulation focused on quantitative research methods
+  - Analyzed a book of loans to estimate a customer's probability of default
+  - Used dynamic programming to convert FICO scores into categorical data to predict defaults
