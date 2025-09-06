@@ -1,178 +1,52 @@
-# Onyero Walter Ofuzim
+# 👋 Hi, I'm Onyero Walter Ofuzim  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/onyero-walter-ofuzim-189301107/)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:onyero.ofuzim@ucalgary.ca)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey)](https://github.com/Waltberry)
+🎯 **Graduate Researcher | Data Engineer | Machine Learning Enthusiast | Control Systems Specialist**  
 
-## Professional Summary
+I work at the intersection of **data engineering, machine learning, and control systems**, designing **AI-assisted and model-driven solutions** for clean energy, network optimization, and enterprise-scale data platforms.  
+Currently a **Graduate Research/Teaching Assistant** at the University of Calgary (DICE Program), where I apply **system identification, optimization, and ML** to energy storage modeling and sustainable technology.  
 
-Innovative and results-driven engineer with a robust electrical, network and software engineering background.
+---
 
-## Experience
+## 📄 My CV  
+📌 [View My CV (PDF)](./CV.pdf)  
+*(This repository also contains my full CV in LaTeX/Markdown format for easy updates.)*  
 
-### Graduate Research/Teaching Assistant
-**Schulich School of Engineering - Electrical & Software**  
-Calgary, Alberta, Canada  
-January 2024 - Present 
-- Conducting research within the Digital Innovation in Clean Energy (DICE) program, focusing on machine learning and System Identification to monitor the physics of Grid Flow Batteries and Hydrogen Storage Cells.
+---
 
-### Lead Technology Specialist (Analysis) / Network Support Analyst
-**MTN**  
-Falomo Ikoyi (HQ), Lagos, Nigeria  
-March 2023 – November 2023
-- Led a team in implementing advanced data analysis techniques, resulting in a 15% reduction in network downtime.
+## 🛠️ Skills Snapshot  
 
-### Network Support Engineering Intern
-**MTN**  
-Falomo Ikoyi (HQ), Lagos, Nigeria  
-August 2023 - February 2023
-- Provided critical support in network stability and troubleshooting, contributing to improved service reliability.
+- **Data Engineering & Cloud**: Python (Pandas, PySpark), SQL, Snowflake, Databricks, Spark, Airflow, AWS, Azure, GCP  
+- **Machine Learning & AI**: TensorFlow, PyTorch, Scikit-learn, NLP, Deep Learning, Generative AI  
+- **Control & Optimization**: System Identification, Control Theory, Battery Modeling, Optimization (MPC, ML-driven)  
+- **Software Engineering**: Python, JavaScript/TypeScript, React, Django, Java, APIs, Docker, Kubernetes, Git  
 
-### Graduate Research Assistant									
-**University of Benin – Department of Electrical/Electronic Engineering**  
-Benin, Edo, Nigeria  
-January 2020 – August 2021
-- Spearheaded pioneering research in embedded systems and IoT technologies, notably contributing to developing efficient battery management solutions.
+---
 
-### Network Engineering Intern
-**MTN**  
-Ojota, Lagos, Nigeria  
-November 2019 - May 2020
-- Played a key role in network integrity maintenance and SNMP monitoring.
+## 🚀 Selected Projects  
 
-### Automation/ Electrical Engineer Intern
-**Nigerian Bottling Company PLC. (Coca-Cola HBC)**  
-Ikeja, Lagos  
-August 2019 - November 2019  
-- Implemented proactive maintenance strategies, reducing machinery downtime by 15%.
+- 🔗 [**E-Commerce Recommender System**](https://github.com/Waltberry/recommender-system) – Modular recommender engine with batch & streaming pipelines 
+- 🔗 [**Staff Management API**](https://github.com/Waltberry/StaffManagementAPI) – RESTful web service in Java Spring Boot providing CRUD operations for employee management  
+- 🔗 [**Customer Churn Prediction**](https://github.com/Waltberry/Customer-Churn-Prediction-in-a-Telecom-Company) – Predictive ML model for telecom retention strategies  
+- 🔗 [**Fine-tuned BERT for Text Classification**](https://github.com/Waltberry/Fine-Tune-BERT-for-Text-Classification-with-TensorFlow) – NLP classification using transformers  
+- 🔗 [**Stock Monitor**](https://github.com/Waltberry/StockMonitor) – Real-time stock market analysis dashboard  
 
-## Education
+👉 Explore more of my projects [here on GitHub](https://github.com/Waltberry).  
 
-- **Master of Science - MS, Electrical and Software Engineering**  
-  University of Calgary, January 2024 - 2025  
-  Focus: Software Engineering, System Identification, ML/DL, Advanced Control Systems
+---
 
-- **Bachelor of Engineering - BEng., Electrical and Electronics Engineering**  
-  University of Benin, October 2015 - November 2021  
-  Focus: Control Systems, Software and Embedded Systems 
+## 🎓 Certifications (Selected)  
 
-## Honors & Awards
+- **Snowflake Data Engineering Professional Certificate** – 2025  
+- **DeepLearning.AI / AWS Data Engineering Professional Certificate** – 2025  
+- **Machine Learning – Stanford Online**  
+- **Modern Robotics Specialization – Northwestern University**  
 
-- **Department of Electrical and Software Engineering Funding**  
-  - Issued by the Department of Electrical and Software Engineering, University of Calgary  
-  - January 2024
+*(Full list in CV)*  
 
-- **International Graduate Tuition Award**  
-  - Issued by Office of the Provost, University of Calgary  
-  - January 2024
+---
 
-- **Sri Lanka Imanust Graduate Scholarship Engineering Award**  
-  - Issued by S. C. (Chan) and Dhamitha Wirasinghe, University of Calgary  
-  - January 2024
+## 📬 Let’s Connect  
 
-- **Federal Government of Nigeria Scholarship**  
-  - Issued by the Federal Government of Nigeria  
-  - September 2017
-
-- **Jim Ovia Undergraduate Scholarship**  
-  - Issued by Jim Ovia Foundation, University of Benin  
-  - December 2016
-
-- **Delta State Bursary and Scholarship (DSBSB)**  
-  - Issued by Delta State Bursary and Scholarship (DSBSB) / Delta State Government  
-  - January 2016
-
-## Skills
-
-### Technical Skills
-
-#### Programming Languages
-- **Python:** Data Processing, Virtual Environments, Dash, Pandas, Financial Data
-- **JavaScript:** React, TypeScript, A/B Testing
-- **Java:** Object-Oriented Programming, Spring
-- **SQL:** MySQL, Data Modeling
-- **Other Languages:** MATLAB, R, C
-
-#### Software Development
-- **Front-End:** HTML, CSS, React
-- **Back-End:** Django, APIs
-- **Mobile Development:** Java, Kotlin, React Native
-- **Web Applications:** Technical Communication, Unit Testing, Collaboration
-
-#### Data Analysis & Machine Learning
-- **Data Analysis:** PowerBI, Excel, Analytical Dashboard Creation, Data Quality Analysis
-- **Machine Learning/AI:** Algorithms, Deep Learning, Computer Vision, NLP, Reinforcement Learning, Model Evaluation and Validation
-- **Product Analytics:** Product Backlog, A/B Testing
-
-#### Control Systems & Robotics
-- **Control Systems Engineering:** Classical Control Theory, Modern Control Theory, System Identification, Feedback Control Design, Control System Implementation
-- **Robotics:** Robot Operating System (ROS), Kinematics and Dynamics, Sensor Integration, Path Planning and Navigation, Localization and Mapping
-
-#### Software Tools & Technologies
-- **Version Control:** Git, GitHub
-- **Cloud Infrastructure:** AWS, Cloud Architecture
-- **Automation & Systems Engineering:** Aircraft Systems, Automated Systems, Systems Engineering
-
-### Project Management & Agile Methodology
-- **Project Management:** Trello, Project Management, Knowledge Check, Value Stream Mapping
-- **Agile Methodology:** Agile, Scrum Process, Scrum Roles, Sprints, User Stories, Product Backlog, Backlog Refinement, Story Points, Scrum Events, Daily Standups, Sprint Reviews, Sprint Retrospectives
-
-### Professional Skills
-- **Technical Communication**
-- **Collaboration:** Contributing to the Open Source Community
-- **Critical Thinking:** Critical Thinking, Self-Reflection
-
-## Extracurricular Activities
-[![Extracurricular Activities](https://img.shields.io/badge/Extracurricular_Activities-Click_here-blue)](https://github.com/Waltberry/CV/blob/main/Extracurricular_Activities.md)
-
-## Licenses & Certifications
-
-### Machine Learning
-**Stanford Online - Dec 2021**  
-
-### Modern Robotics: Mechanics, Planning, and Control Specialization
-**Course 1: Modern Robotics, Course 1: Foundations of Robot Motion**  
-**Northwestern University - Dec 2021**  
-
-### Self-Driving Cars Specialization
-**Course 1: Introduction to Self-Driving Cars**  
-**University of Toronto - Jan 2022**  
-
-### Robotics Specialization
-**Course 1: Robotics: Aerial Robotics**  
-**University of Pennsylvania - Oct 2022**  
-**Course 2: Robotics: Computational Motion Planning**  
-**University of Pennsylvania - Oct 2022**  
-**Course 3: Robotics: Aerial Robotics**  
-**University of Pennsylvania - Oct 2022**  
-**Course 4: Robotics: Computational Motion Planning**  
-**University of Pennsylvania - Oct 2022**  
-**Course 5: Robotics: Legged Mobility**  
-**University of Pennsylvania - Oct 2022**  
-**Course 6: Robotics: Perception**  
-**University of Pennsylvania - Mar 2023**  
-
-### Cooperation in Autonomous Vehicles
-**IEEE - Oct 2022** 
-
-### Developing and Validating Control Systems for Connected and Automated Vehicles
-**IEEE - Oct 2022**  
-
-## Publications
-
-- Kinematic Analysis of Omnidirectional Mecanum Wheeled Robot
-- Design and Construction of Battery Monitoring & Control Device using the Internet of Things (IoT)
-
-## Spoken Languages
-
-- English (Native or Bilingual)
-- Igbo (Native or Bilingual)
-- Ika (Native or Bilingual)
-- German (Limited Working Proficiency)
-- French (Learning)
-- Spanish (Learning)
-
-## Project
-
-[![Project](https://img.shields.io/badge/Project_list-Click_here-blue)](https://github.com/Waltberry/CV/blob/main/Projects.md)
-
+- 💼 [LinkedIn](https://linkedin.com/in/onyero-walter-ofuzim)  
+- 📧 [Email Me](mailto:onyero.ofuzim@ucalgary.ca)  
+- 🌐 [Portfolio Website](#) **  

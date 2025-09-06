@@ -1,9 +1,19 @@
 ## Projects
 
+### E-Commerce Recommender System
+- **Duration:** June 2025 - June 2025
+- **Description:** A modular, production-ready product recommendation engine built using Python and Streamlit. This system is designed to suggest relevant items based on real-time and historical user behavior—such as browsing history, purchase activity, and cart contents. Using real-world data from RetailRocket, the system demonstrates foundational recommendation approaches including popularity-based, item-to-item similarity, and a cart-aware hybrid method. It simulates both batch and streaming pipelines to reflect a scalable, real-world architecture for modern e-commerce platforms.
+- **GitHub:** [E-Commerce Recommender System](https://github.com/Waltberry/recommender-system)
+
+### Staff Management API
+- **Duration:** July 2024 - September 2024
+- **Description:** The StaffManagementAPI is a RESTful web service built using Java Spring Boot. It provides endpoints for managing a list of employees, including retrieving all employee data. This project demonstrates the creation of a basic web service that can handle HTTP GET requests and return JSON responses
+- **GitHub:** [Staff Management API](https://github.com/Waltberry/StaffManagementAPI)
+
 ### Stock Monitor
 - **Duration:** June 2024 - June 2024
 - **Description:** StockMonitor is a comprehensive application designed to monitor and analyze stock market trends. It provides users with real-time stock data and various tools to help them make informed investment decisions.
-- **GitHub:** [Stock Monitor](https://github.com/Waltberry/StockMonitor)
+- **GitHub:** [Recommender System](https://github.com/Waltberry/StockMonitor)
 
 ### Arduino Temperature Warning System IoT
 - **Duration:** June 2024 - June 2024
@@ -138,7 +148,6 @@
 ### Streamlining Employee Data (in Python)
 - **Duration:** Aug 2022 - Aug 2022
 - **Description:** Used DataFrames to merge and analyze employee data from various sources.
-- **GitHub:** [Streamlining Employee Data](https://github.com/Waltberry/Streamline_Employee_Data)
 
 ### The Hottest Topics in Machine Learning (in Python)
 - **Duration:** Aug 2022 - Aug 2022
@@ -243,12 +252,12 @@
 ### Bank Account Simulator
 - **Duration:** Nov 2021 - Nov 2021
 - **Description:** A bank simulator that allows deposits, withdrawals, and displays current account status.
-- **GitHub:** [Bank Account Simulator](https://github.com/Waltberry/Bank-Account-Simulator)
+- **GitHub:** [Bank Account Simulator](https://github.com/Waltberry/Simple_Bank-Account)
 
 ### Credit Card Validator
 - **Duration:** Nov 2021 - Nov 2021
 - **Description:** A simple utility to detect and validate credit card numbers.
-- **GitHub:** [Credit Card Validator](https://github.com/Waltberry/Credit-Card-Validator)
+- **GitHub:** [Credit Card Validator](https://github.com/Waltberry/Credit_Card_Validator)
 
 ### Design and Construction of Battery Monitoring & Control Device using Internet of things (IoT)
 - **Duration:** Jan 2021 - Jul 2021

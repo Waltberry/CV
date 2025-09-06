@@ -1,0 +1,147 @@
+
+\documentclass[11pt,a4paper,sans]{moderncv}
+
+% ----- ModernCV config -----
+\moderncvstyle{classic}
+\moderncvcolor{blue}
+\usepackage[scale=0.85]{geometry}
+\setlength{\hintscolumnwidth}{2.6cm}
+\usepackage{enumitem}
+\setlist[itemize]{topsep=2pt,itemsep=2pt,parsep=0pt,partopsep=0pt}
+
+% ----- Identity -----
+\name{Onyero Walter}{Ofuzim}
+% \title{Data Engineer}
+\address{Calgary, AB}{Canada}{}
+\phone[mobile]{+1 403 605 0955}
+\social[github]{Waltberry}
+\email{onyero.ofuzim@ucalgary.ca}
+\social[linkedin]{onyero-walter-ofuzim}
+
+% ----- Document -----
+\begin{document}
+\makecvtitle
+
+% ===== Summary =====
+\section{Summary}
+\cvitem{}{
+Data Engineer with a foundation in electrical/software engineering and hands-on work in ML-assisted energy systems and telecom analytics. Builds reliable data products and pipelines across cloud and on-prem, using Python, SQL, containers, and modern lakehouse/warehouse tooling. Passionate about efficient, observable, and well-tested data systems that enable analytics and ML.
+}
+
+% ===== Skills =====
+\section{Core Skills}
+\cvitem{Languages}{Python (pandas, PySpark), SQL (ANSI, Snowflake SQL), Bash}
+\cvitem{Data Eng}{Apache Spark, Delta Lake, Databricks, Snowflake, Airflow/Dagster/Prefect, dbt, Kafka (basics), REST/gRPC APIs}
+\cvitem{Cloud}{AWS (S3, Glue, Athena/Trino, Lambda, IAM, CloudWatch), Azure (Databricks, Storage, ADF basics), GCP (BigQuery basics)}
+\cvitem{Storage}{Lakehouse (Delta/Parquet), Warehouses (Snowflake, BigQuery/Synapse basics), RDBMS (MySQL/PostgreSQL), NoSQL (DynamoDB basics)}
+\cvitem{MLOps/DE}{MLflow, Feature Store (concepts), Great Expectations (data testing), GitHub Actions (CI/CD)}
+\cvitem{Infra}{Docker, Kubernetes (fundamentals), Terraform (IaC basics), Linux}
+\cvitem{Analytics}{Power BI, Excel; basic statistics, A/B testing concepts}
+\cvitem{Practices}{Data modeling (3NF, Dimensional, Data Vault 2.0 principles), ELT/ETL design, orchestration, observability, cost optimization, documentation}
+
+% ===== Certifications =====
+\section{Certifications}
+% \cvitem{2024}{Data Engineer in Python Certificate}
+\cvitem{2025}{Snowflake Data Engineering Professional Certificate}
+% \cvitem{2025}{Docker \& Kubernetes Masterclass: From Beginner to Advanced Specialization}
+\cvitem{2025}{Mastering Azure Databricks for Data Engineers Specialization}
+\cvitem{2025}{DeepLearning.AI (AWS) Data Engineering Professional Certificate}
+
+% ===== Education =====
+\section{Education}
+\cventry{2025}{M.Sc., Electrical \& Software Engineering}{Schulich School of Engineering, University of Calgary}{}{}{\textit{Focus:} Advanced Control/System Identification, AI(ML/DL), Battery Modeling}
+\cventry{2021}{B.Eng., Electrical/Electronic Engineering}{University of Benin, Nigeria}{}{}{\textit{Focus:} Control Systems, Software \& Embedded Systems}
+
+% ===== Awards =====
+\section{Awards}
+\cvitem{2024}{Dept. of Electrical \& Software Engineering Funding — University of Calgary}
+\cvitem{2024}{Sri Lanka Imanust Graduate Scholarship Engineering Award — S.\,C.\,(Chan) \& Dhamitha Wirasinghe (UCalgary)}
+
+% \vspace{4em}
+% ===== Experience =====
+\section{Experience}
+\cventry{Jan. 2024 -- Present}{Graduate Research/Teaching Assistant}{University of Calgary — DICE Program}{Calgary, AB}{}{
+\begin{itemize}
+  \item Researched on AI-assisted battery management systems within the Digital Innovation in Clean Energy (DICE) program, contributing to projects aligned with Alberta Innovates’ goals for energy efficiency and sustainability.
+  \item Developed and applied methods in system identification, control systems, and AI/ML to support advanced energy storage modeling and optimization.
+  \item Served as a Teaching Assistant for multiple courses, including ENEL 469 (Analog Electronic Circuits), ENEL 680 (Applied Optimization for Sustainable Design), ENSF 300 (Software Engineering Practices for Data Management), ENCM 369 (Computer Organization), and ENEL 441 (Control Systems I).
+\end{itemize}
+}
+
+\cventry{Aug. 2022 -- Nov. 2023}{Lead Technology Specialist / Network Support Analyst}{MTN — NPQA (Network Performance Quality Assurance)}{Lagos, Nigeria}{}{
+\begin{itemize}
+  \item Progressed from Intern to Lead Analyst within NPQA, leading a team to implement advanced data-driven approaches for network performance optimization.
+  \item Developed Python scripts and automated workflows that streamlined monitoring and fault management, reducing manual effort and improving incident response time.
+  \item Configured SNMP settings and performed proactive troubleshooting using Linux, Bash, and StableNet, ensuring minimal downtime and maximum network efficiency.
+  \item Conducted advanced data analysis and KPI reporting using Python, Excel, and Power BI, providing insights that supported strategic decision-making and contributed to a $\sim$15\% reduction in network downtime (estimated \$500K annual savings).
+  \item Collaborated cross-functionally with engineering and operations teams to integrate innovative software solutions, enhance fault detection, and drive continuous network performance improvements.
+\end{itemize}
+}
+
+
+\cventry{Jan. 2020 -- Aug. 2021}{Graduate Research Assistant}{University of Benin — Dept. of Electrical/Electronic Engineering}{Benin, Nigeria}{}{
+\begin{itemize}
+  \item Conducted research in embedded systems and IoT technologies, focusing on developing efficient battery monitoring and management solutions for enhanced energy sustainability.
+  \item Designed and prototyped an IoT-enabled remote battery monitoring and control device, enabling improved energy efficiency and demonstrating potential to reduce local energy costs by up to 30\%.
+  \item Published findings in \textit{Design and Construction of a Remote Battery Monitoring and Control Device Using the Internet of Things (IoT)} \href{https://www.researchgate.net/publication/369377501_Design_and_Construction_of_a_Remote_Battery_Monitoring_and_Control_Device_Using_the_Internet_of_Things_IoT}{[ResearchGate]}.
+\end{itemize}
+}
+
+
+\cventry{Nov. 2019 -- May 2020}{Network Operations/Support Engineering Intern}{MTN — NSMC}{Lagos, Nigeria}{}{
+\begin{itemize}
+  \item Gained cross-departmental exposure in NSMC, collaborating with TX/IP MPLS, Data & Internet Services, and NSS units to support end-to-end network operations.
+  \item Monitored network performance using SNMP and other monitoring tools, contributing to proactive fault detection and improved service reliability.
+  \item Assisted in incident management and escalation processes, participating in root-cause analysis and ensuring timely problem resolution.
+  \item Supported reporting and analytics by preparing daily, weekly, and monthly performance dashboards in Excel, providing data-driven insights for operations teams.
+\end{itemize}
+
+
+\cventry{Aug. 2019 -- Nov. 2019}{Automation/Electrical Engineer Intern}{Nigerian Bottling Company (Coca-Cola HBC)}{Lagos, Nigeria}{}{
+\begin{itemize}
+  \item Assisted the Automation/Electrical Department in maintaining and troubleshooting electrical and electronic systems, ensuring reliable plant operations.
+  \item Performed daily machine inspections and quality control checks to identify faults and prevent unexpected downtime.
+  \item Assembled, tested, and repaired malfunctioning machinery under supervision, contributing to improved equipment reliability.
+  \item Created work orders and compiled plant performance reports using Excel, streamlining documentation and workflow efficiency.
+\end{itemize}
+}
+% ===== Selected Projects =====
+\section{Selected Projects}
+
+\cvitem{E-Commerce Recommender System}{\small A production-ready recommendation engine built with Python and Streamlit, using RetailRocket data. Demonstrates batch \& streaming data pipelines for scalable e-commerce systems. \href{https://github.com/Waltberry/recommender-system}{\color{blue}GitHub}}
+
+\cvitem{Staff Management API}{\small RESTful web service in Java Spring Boot providing CRUD operations for employee management. Showcases API design, JSON data handling, and integration testing. \href{https://github.com/Waltberry/StaffManagementAPI}{\color{blue}GitHub}}
+
+\cvitem{Stock Monitor}{\small Real-time stock market analysis and visualization with Python, enabling trend detection and decision support. \href{https://github.com/Waltberry/StockMonitor}{\color{blue}GitHub}}
+
+\cvitem{Customer Churn Prediction}{\small Machine learning pipeline for telecom customer churn prediction. Includes preprocessing, model training, and evaluation. \href{https://github.com/Waltberry/Customer-Churn-Prediction-in-a-Telecom-Company}{\color{blue}GitHub}}
+
+\cvitem{Data-Driven Insights for Donor Selection}{\small Predictive analytics for fundraising campaigns, using ML models to identify high-propensity donors. \href{https://github.com/Waltberry/Data-Driven_Insights_for_Donor_Selection}{\color{blue}GitHub}}
+
+\cvitem{Bank Account Simulator}{\small Python-based banking simulator for deposits, withdrawals, and account tracking. \href{https://github.com/Waltberry/Simple_Bank-Account}{\color{blue}GitHub}}
+
+\cvitem{Credit Card Validator}{\small Python utility to detect and validate credit card numbers. \href{https://github.com/Waltberry/Credit_Card_Validator}{\color{blue}GitHub}}
+
+% ===== Extracurricular Activities =====
+\section{Extracurricular Activities}
+
+\cvitem{J.P. Morgan Software Engineering Virtual Experience}{\small Built live data visualization dashboards using the Perspective library, resolved development environment issues, and enhanced web application reliability.}
+
+\cvitem{J.P. Morgan Agile Job Simulation}{\small Practiced Agile project management by drafting user stories, running standups, and leading sprint reviews/retrospectives to improve workflow.}
+
+\cvitem{J.P. Morgan Quantitative Research Simulation}{\small Applied quantitative methods to loan portfolio analysis, estimating default probabilities using dynamic programming and credit risk modeling.}
+
+\cvitem{Blackbird Australia Software Engineering Simulation}{\small Designed cloud infrastructure components, proposed A/B testing features, and contributed to sprint retrospectives in a start-up simulation.}
+
+\cvitem{Citi ICG Technology Simulation}{\small Improved loan management and risk reporting systems, created UML diagrams, and built a Java-based stock market risk visualization tool.}
+
+\cvitem{HPE Software Engineering Simulation}{\small Drafted proposals for RESTful web services, developed a Java Spring Boot server, and implemented unit tests for performance validation.}
+
+\cvitem{Lyft Back-End Engineering Simulation}{\small Refactored and extended backend codebase using test-driven development, designed UML class diagrams, and implemented new functionality.}
+
+
+% ===== Footer note (optional) =====
+% \clearpage
+% \cvitem{}{\small References available upon request.}
+
+\end{document}
