@@ -15,10 +15,11 @@ Currently a **Graduate Research/Teaching Assistant** at the University of Calgar
 
 ## 🛠️ Skills Snapshot  
 
-- **Data Engineering & Cloud**: Python (Pandas, PySpark), SQL, Snowflake, Databricks, Spark, Airflow, AWS, Azure, GCP  
-- **Machine Learning & AI**: TensorFlow, PyTorch, Scikit-learn, NLP, Deep Learning, Generative AI  
-- **Control & Optimization**: System Identification, Control Theory, Battery Modeling, Optimization (MPC, ML-driven)  
-- **Software Engineering**: Python, JavaScript/TypeScript, React, Django, Java, APIs, Docker, Kubernetes, Git  
+**Data & Cloud**: Apache Spark • Databricks • Snowflake • dbt • Airflow • AWS (S3, Glue, Lambda) • Azure (Databricks, ADF) • GCP (BigQuery)  
+**Programming**: Python (pandas, PySpark, NumPy, SciPy) • SQL (Snowflake, MySQL, PostgreSQL, BigQuery) • JavaScript/TypeScript (React, Node.js) • Java • MATLAB • R  
+**ML/AI**: TensorFlow • PyTorch • Scikit-learn • XGBoost • NLP (BERT) • Computer Vision (OpenCV) • MLflow  
+**Control & Robotics**: System Identification (ARX/BJ/PEM) • Control Theory • Battery Modeling (SPMe/DFN) • Robotics (ROS, Autoware)  
+**DevOps & Tools**: Docker • Kubernetes • Terraform • Git/GitHub • GitHub Actions • Jenkins • Linux
 
 ---
 
