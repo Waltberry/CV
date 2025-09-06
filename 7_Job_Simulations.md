@@ -1,4 +1,4 @@
-## Extracurricular Activities
+## Job Simulations
 
 - **GE Engineering Virtual Experience Program on Forage - August 2022**
   - Engaged in practical task modules across Energy sectors including Power Generation, Healthcare, and Aviation Systems.
