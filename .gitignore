@@ -1,0 +1,56 @@
+# --- Project-specific ---
+Applied Jobs/
+
+# # --- Python ---
+# __pycache__/
+# *.py[cod]
+# *.pyo
+# *.pyd
+# *.so
+# .venv/
+# venv/
+# env/
+# dist/
+# build/
+# *.egg-info/
+# pip-wheel-metadata/
+# .ipynb_checkpoints/
+# .pytest_cache/
+# .mypy_cache/
+# .pytype/
+# .pyre/
+# .coverage
+# coverage.xml
+# htmlcov/
+
+# # --- Jupyter ---
+# *.ipynb_checkpoints
+
+# # --- Node / JS ---
+# node_modules/
+# npm-debug.log*
+# .yarn/*
+# .pnp.*
+# .next/
+# out/
+
+# # --- LaTeX build files (keep PDFs if you commit CVs) ---
+# *.aux
+# *.log
+# *.out
+# *.toc
+# *.synctex.gz
+# *.fls
+# *.fdb_latexmk
+# *.bbl
+# *.blg
+
+# # --- OS junk ---
+# .DS_Store
+# Thumbs.db
+
+# # --- IDE / Editor ---
+# .vscode/
+# .idea/
+# *.swp
+# *.swo
